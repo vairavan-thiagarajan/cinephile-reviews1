@@ -1,0 +1,92 @@
+html {
+    background-color: #FCF5ED;
+}
+.logo {
+    text-align: center;
+}
+.black-line {
+    height: 3px;
+    border-radius: 50%;
+    background: black;
+}
+#logo-line {
+    margin-top: -130px;
+}
+.small-line {
+    font-family: 'Abril Fatface', serif;
+    font-size: xx-large;
+    color:#e1833a;
+    font-weight: bolder;
+    margin-top: -40px;
+}
+.mainposter {
+    text-align: center;
+}
+h5 {
+    font-family: 'Caveat', cursive;
+    font-size:30px;
+    text-align: center;
+    color:#e1833a;
+}
+h1 {
+    font-family: 'Abril Fatface', serif;
+    text-align: center;
+    margin-top: 60px;
+}
+.synbox,.synopsis {
+    font-family: 'Fjalla One', sans-serif;
+    text-align:left;
+    margin-left: 7.5px;
+    font-size: larger;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.movielink {
+    text-align: center;
+}
+.red-text {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Abril Fatface', serif;
+    font-weight:500;
+    margin-top: -65px;
+}
+.review {
+    font-family: 'Architects Daughter', cursive;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: larger;
+}
+.footer {
+    text-align: center;
+}
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+.othermovies {
+    text-align: center;
+}
+.goodfellas {
+    display: inline-block;
+}
+.killersoftheflowermoon {
+    display: inline-block;
+}
+.wolfofwallstreet {
+    display: inline-block;
+}
+.movies {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.verline {
+    background: #e1833a;
+    height: 24px;
+    width: 5px;
+}
+
+

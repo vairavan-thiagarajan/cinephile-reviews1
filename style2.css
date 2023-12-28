@@ -1,0 +1,83 @@
+html {
+    background-color: #FCF5ED;
+}
+#logo-line {
+    margin-top: -130px;
+}
+.logo {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+}
+.beauty {
+    color:#CE5A67;
+}
+.orange-line {
+    font-weight:bolder;
+    font-size: 50px;
+    margin: 0%;
+    padding: 0%;
+}
+h2 {
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.black-line {
+    height: 3px;
+    border-radius: 100%;
+    background: black;
+    margin-top: -10px;
+}
+.small-line {
+font-family: 'Abril Fatface', serif;
+font-size: xx-large;
+color:#e1833a;
+font-weight: bolder;
+text-align: center;
+margin-top: -50px
+}
+.synopsis {
+    font-family: 'Architects Daughter', cursive;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+}
+h3 {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    margin-top: -60px;
+}
+h4 {
+    text-align: center;
+    font-weight: lighter;
+}
+.wolfofwallstreet {
+    display: inline-block;
+}
+.killersoftheflowermoon {
+    display: inline-block;
+}
+.goodfellas {
+    display: inline-block;
+}
+.contact {
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+.movies {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.red-text {
+    font-family: 'Abril Fatface', serif;
+}
